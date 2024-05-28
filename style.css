@@ -492,6 +492,10 @@ html, body {
     .child span{
         display: inline-block;
     }
+    #imagee{
+        width: 90vw;
+        margin-left: 2.5vw;
+    }
 
     #page2 {
         width: 100%;
